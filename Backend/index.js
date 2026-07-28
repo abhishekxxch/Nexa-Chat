@@ -4,12 +4,7 @@ dns.setServers(["8.8.8.8", "8.8.4.4"]);
 
 import express from 'express';
 import cors from "cors";
-app.use(
-  cors({
-    origin: "https://nexa-chat-beta.vercel.app",
-    credentials: true,
-  })
-);
+
 
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
@@ -18,7 +13,10 @@ const app = express()
 dotenv.config()
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: [
+      "http://localhost:5173",
+      "https://nexa-chat-beta.vercel.app",
+    ],
     credentials: true,
   })
 );
