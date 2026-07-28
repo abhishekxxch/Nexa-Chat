@@ -30,7 +30,7 @@ Modern Full Stack Chatbot built using React, Node.js, Express and MongoDB.
 
 </p>
 
-> 📸 Replace the GIF above with screenshots of your chatbot after deployment.
+> 📸 JUSTTTTTTTTTTTT DO ITTTTTTTTTTTTTTTTT.
 
 ---
 
