@@ -55,7 +55,7 @@ Nexa Chat is a modern **full-stack chatbot application** built with **React, Nod
 
 <div align="center">
 
-<img src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBsY3VkdzR1aWJ6Y3p4cnMyMGl5Y2ZibDg4emhkZjIxa3JnZW5wNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif)" width="700"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBsY3VkdzR1aWJ6Y3p4cnMyMGl5Y2ZibDg4emhkZjIxa3JnZW5wNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="700" alt="Nexa Chat Preview"/>
 
 </div>
 
