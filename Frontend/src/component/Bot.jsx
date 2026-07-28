@@ -53,9 +53,11 @@ function Bot() {
     setLoading(true);
 
     try {
-      const res = await axios.post("http://localhost:4002/bot/v1/message", {
-        text: trimmedInput,
-      });
+      const API_URL = import.meta.env.VITE_API_URL;
+
+const res = await axios.post(`${API_URL}/bot/v1/message`, {
+  text: trimmedInput,
+});
 
       if (res.status === 200) {
         const nextMessages = [
