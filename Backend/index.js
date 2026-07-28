@@ -4,6 +4,12 @@ dns.setServers(["8.8.8.8", "8.8.4.4"]);
 
 import express from 'express';
 import cors from "cors";
+app.use(
+  cors({
+    origin: "https://nexa-chat-beta.vercel.app",
+    credentials: true,
+  })
+);
 
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
