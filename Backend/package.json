@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-app-backend",
+  "version": "1.0.0",
+  "description": "chatbot_app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "chatbot_application"
+  ],
+  "author": "Abhishek Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.8.1",
+    "nodemon": "^3.1.14"
+  }
+}
