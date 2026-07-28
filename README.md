@@ -1,117 +1,115 @@
 <div align="center">
 
-# 🚀 Nexa Chat
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,100:6A5ACD&text=Nexa%20Chat&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Modern+Full+Stack+Chatbot;Built+with+React+%2B+Node.js+%2B+MongoDB;Fast+%7C+Responsive+%7C+Scalable" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=Modern+Full+Stack+Chatbot;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Fast+%7C+Responsive+%7C+Scalable;Built+with+❤️+by+Abhishek+Chaudhary"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7B2FF7&height=220&section=header&text=Nexa%20Chat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<p>
 
-<p align="center">
-Modern Full Stack Chatbot built using React, Node.js, Express and MongoDB.
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<p align="center">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/Nexa-Chat?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/Nexa-Chat?style=for-the-badge"/>
-<img src="https://img.shields.io/github/license/YOUR_USERNAME/Nexa-Chat?style=for-the-badge"/>
-<img src="https://img.shields.io/github/languages/top/YOUR_USERNAME/Nexa-Chat?style=for-the-badge"/>
-<img src="https://img.shields.io/github/repo-size/YOUR_USERNAME/Nexa-Chat?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
 </p>
 
 </div>
 
 ---
 
-# ✨ Preview
+# 🚀 Nexa Chat
 
-<p align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700"/>
-
-</p>
-
-> 📸 JUSTTTTTTTTTTTT DO ITTTTTTTTTTTTTTTTT.
+Nexa Chat is a modern **full-stack chatbot application** built with **React, Node.js, Express, and MongoDB**. It delivers a clean conversational interface, responsive design, and a scalable backend architecture for handling user interactions.
 
 ---
 
-# 🌟 Features
+# ✨ Features
 
-✅ Beautiful Responsive UI
+- 💬 Interactive Chat Interface
+- ⚡ Fast REST API Communication
+- 🎨 Modern Responsive UI
+- 📱 Mobile Friendly
+- 🗂 MongoDB Integration
+- 🔥 Express.js Backend
+- ⚛️ React + Vite Frontend
+- 📦 Clean Project Structure
+- 🛡 Error Handling
+- 🚀 Easy Deployment
 
-✅ Real-time Chat Interface
+---
 
-✅ Full Stack Architecture
+# 🖥 Live Demo
 
-✅ REST API Integration
+> Coming Soon
 
-✅ MongoDB Database
+---
 
-✅ Clean Component Structure
+# 📷 Preview
 
-✅ Responsive Design
+<div align="center">
 
-✅ Fast Performance
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
 
-✅ Modern User Experience
+</div>
 
 ---
 
 # 🛠 Tech Stack
 
-<div align="center">
-
 | Frontend | Backend | Database | Styling |
-|----------|----------|----------|----------|
+|-----------|----------|----------|----------|
 | React | Node.js | MongoDB | Tailwind CSS |
 | Vite | Express.js | Mongoose | CSS |
 
-</div>
-
 ---
 
-# ⚡ Folder Structure
+# 📂 Project Structure
 
-```bash
-Nexa-Chat/
+```text
+Nexa-Chat
 │
-├── Frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
+├── Backend
+│   ├── controllers
+│   ├── models
+│   ├── routes
+│   ├── package.json
+│   └── index.js
 │
-├── Backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── index.js
-│   └── package.json
+├── Frontend
+│   ├── public
+│   ├── src
+│   ├── package.json
+│   └── vite.config.js
 │
 └── README.md
 ```
 
 ---
 
-# 🚀 Installation
+# ⚙ Installation
 
-## Clone Repository
+### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Nexa-Chat.git
+git clone https://github.com/abhishekxxch/Nexa-Chat.git
 ```
 
----
-
-## Backend
+### Backend
 
 ```bash
 cd Backend
 npm install
-npm run dev
+npm start
 ```
 
----
-
-## Frontend
+### Frontend
 
 ```bash
 cd Frontend
@@ -121,112 +119,86 @@ npm run dev
 
 ---
 
-# 🌐 Environment Variables
+# 🔐 Environment Variables
 
-Create a `.env`
+Create a `.env` inside **Backend**
 
 ```env
-MONGO_URI=YOUR_MONGODB_URI
 PORT=4002
+MONGO_URI=YOUR_MONGODB_URI
 ```
 
 ---
 
-# 📸 Screenshots
+# 🚀 Future Improvements
 
-## Home
-
-<img src="assets/home.png"/>
-
----
-
-## Chat Interface
-
-<img src="assets/chat.png"/>
-
----
-
-# 🚀 Upcoming Features
-
-- 🔥 Authentication
-- 🌙 Dark Mode
-- 📜 Chat History
-- 📱 Better Mobile UI
-- ⚡ Typing Indicator
-- 😊 Emoji Support
-- 📂 File Sharing
-- 🔊 Voice Messages
 - 🤖 AI Integration
-- ☁️ Cloud Deployment
-
----
-
-# 📊 Project Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- 🌙 Dark Mode
+- 😊 Emoji Support
+- 📁 File Upload
+- 🎤 Voice Messages
+- 📜 Chat History
+- 🔔 Notifications
+- 🌍 Multi-language Support
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome!
+Contributions are welcome!
 
-Fork the repository
-
-Create your feature branch
-
-Commit your changes
-
-Open a Pull Request
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
 
 ---
 
-# ⭐ Support
+# 📈 GitHub Stats
 
-If you like this project
+<p align="center">
 
-⭐ Star the repository
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekxxch&show_icons=true&theme=tokyonight"/>
 
-🍴 Fork it
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekxxch&layout=compact&theme=tokyonight"/>
 
-💬 Share it
+</p>
 
 ---
 
-# 👨‍💻 Developer
+# 🔥 GitHub Streak
 
-**Abhishek Chaudhary**
+<p align="center">
 
-GitHub
+<img src="https://streak-stats.demolab.com?user=abhishekxxch&theme=tokyonight"/>
 
-https://github.com/YOUR_USERNAME
+</p>
 
-LinkedIn
+---
 
-Add your LinkedIn profile here
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/abhishekxxch">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+
+
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abhishek-chaudhary-11480029a/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7B2FF7&height=150&section=footer"/>
+### ⭐ If you like this project, consider giving it a star!
 
-### ⭐ Thanks for visiting ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,100:6A5ACD&section=footer"/>
 
 </div>
